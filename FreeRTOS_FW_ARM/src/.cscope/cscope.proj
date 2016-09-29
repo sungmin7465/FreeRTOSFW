@@ -1,0 +1,26 @@
+Version=2
+
+[AutoCompletion]
+Delay=500
+Enabled=true
+MaxEntries=100
+MinChars=3
+
+[Project]
+AutoRebuildTime=10
+CtagsCommand=
+FileTypes=*.c *.h *.cpp *.hpp *.S
+InvIndex=true
+Kernel=false
+Name=freeRTOS_fw_anal
+NoCompress=false
+RootPath=/home/sm/Arduino/libraries/FreeRTOS_FW/src
+SlowPathDef=false
+TabWidth=0
+
+[Session]
+Bookmarks=
+CallTreeFiles=
+LastOpenFile=/home/sm/Arduino/libraries/FreeRTOS_FW/src/kmu_framework.c
+OpenFiles=/home/sm/Arduino/libraries/FreeRTOS_FW/src/FreeRTOS_AVR/utility/deprecated_definitions.h:1:1,/home/sm/Arduino/libraries/FreeRTOS_FW/src/kmu_framework.c:75:1
+QueryFiles=
